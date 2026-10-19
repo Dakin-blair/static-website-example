@@ -160,6 +160,4 @@ Le titre modifié sur la branche apparaît uniquement en Review. La production r
 
 ## Remarques
 
-- L'**IP publique** de la VM change à chaque redémarrage : mettre à jour le webhook et l'URL de Jenkins.
-- Aucun secret n'est stocké dans le dépôt : les identifiants passent par les **credentials Jenkins**.
 - Le design du site est le modèle **Dimension** de **HTML5 UP** (https://html5up.net), sous licence **Creative Commons Attribution 3.0** (https://html5up.net/license).
